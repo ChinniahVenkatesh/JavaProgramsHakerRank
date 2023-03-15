@@ -22,9 +22,10 @@ if(n > 0)
     else if(n % 2 == 0 && n > 20)
     System.out.println("It is NOT Weird");
 }
-else if(n < 0)
-{
-    System.out.println("Invalid");
+
+else{
+    System.out.println("No need of Else");
+
 }
 }
 }
