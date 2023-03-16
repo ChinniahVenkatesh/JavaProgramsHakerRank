@@ -11,6 +11,5 @@ public class ReverseNumber {
             a = a / 10;//14
         }
 System.out.println(rev);
-    }
-    
+    } 
 }
