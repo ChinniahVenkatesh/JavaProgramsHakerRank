@@ -20,6 +20,5 @@ public class inputOutput {
         System.out.println(sb);
         
         }
-       
     }
 }
