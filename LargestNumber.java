@@ -16,7 +16,6 @@ public class LargestNumber {
                 }
             }
         }
-        System.out.println(a[a.length-1]);
+        System.out.print(a[a.length - 1]);
     }
-    
 }
