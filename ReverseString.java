@@ -4,10 +4,10 @@ public class ReverseString {
     {
        String name = "Arun";
        String rev = "";
-       for(int i = 0; i < name.length() ; i++)
-       {
-        rev = name.charAt(i)+rev;
-       }
-       System.out.println(rev);
+      for(int i = name.length()-1; i >=0 ;i--)
+      {
+       rev = rev + name.charAt(i);
+      }
+      System.out.println(rev); 
     }
 }
