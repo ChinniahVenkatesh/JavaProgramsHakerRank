@@ -9,7 +9,5 @@ public class ReverseString {
         rev = name.charAt(i)+rev;
        }
        System.out.println(rev);
-      
     }
-    
 }
