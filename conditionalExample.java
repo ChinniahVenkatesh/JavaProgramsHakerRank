@@ -25,7 +25,6 @@ if(n > 0)
 
 else{
     System.out.println("No need of Else");
-
 }
 }
 }
