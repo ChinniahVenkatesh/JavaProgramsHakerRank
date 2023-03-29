@@ -17,8 +17,6 @@ public class inputOutput {
           sb.insert(++j1, " ");
           j++;
         }
-        System.out.println(sb);
-        
         }
     }
 }
